@@ -1,5 +1,5 @@
-function calculateNumbers(var1, var2)
+function calculateNumbers(vr1, vr2)
 {
-    var total = var1 + var2;
+    var total = vr1 + vr2;
     return total;
 }
