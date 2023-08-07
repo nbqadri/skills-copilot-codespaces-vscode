@@ -89,5 +89,5 @@ router.post('/deleteComment/:id', ensureAuthenticated, (req, res) => {
     //get date
     var date = new Date();
     //get
-)
+});
 
